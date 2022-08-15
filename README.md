@@ -1,16 +1,13 @@
 # WebView App
 
-A new Flutter project.
+A new Flutter project that shows how to import your web apps into your mobile apps
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* WebView Flutter
+* Regex Pattern
+* Javascript Mode
+* Google Link
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20220814-101933](https://user-images.githubusercontent.com/108900115/184597508-8c8ae13a-45a9-4525-8af8-21cec54bb324.png)
+![Screenshot_20220814-102000](https://user-images.githubusercontent.com/108900115/184597519-70f30f58-508d-47ea-bca0-d3ba1a927fe4.png)
